@@ -7,6 +7,6 @@ hobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Saludo
-        run: echo "¡Hola, mundo!"
+    - name: Saludo
+      run: echo "¡Hola, mundo!"
         
