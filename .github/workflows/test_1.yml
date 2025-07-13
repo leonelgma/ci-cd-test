@@ -2,7 +2,7 @@ name: Hola mundo
 
 on: [push]
 
-hobs:
+jobs:
   hola:
     runs-on: ubuntu-latest
 
